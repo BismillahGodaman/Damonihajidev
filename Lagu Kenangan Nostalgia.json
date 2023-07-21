@@ -1,11 +1,39 @@
 {
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
   "Categories": [
     {
       "id": 1,
       "name_category": "Tembang Kenangan Nostalgia",
       "image": "file:///android_asset/image/music.png"
     }
-  ],
+  ], 
   "Data": [
     { "id":1,  "name_category": "Tembang Kenangan Nostalgia", "title": "Aku Bukan Pilihan ", "image": "file:///android_asset/image/music.png", "link_mp3":"mp3/Aku_Bukan_Pilihan.mp3", "lyrics": " "},
     { "id":2,  "name_category": "Tembang Kenangan Nostalgia", "title": "Aku Ingin Pulang", "image": "file:///android_asset/image/music.png", "link_mp3":"mp3/Aku_ingin_Pulang.mp3", "lyrics": " "},
@@ -84,4 +112,4 @@
     { "id":75,  "name_category": "Tembang Kenangan Nostalgia", "title": "Yang Pertama Kali", "image": "file:///android_asset/image/music.png", "link_mp3":"mp3/Yang_Pertama_Kali.mp3", "lyrics": " "},
     { "id":76,  "name_category": "Tembang Kenangan Nostalgia", "title": "Yang Terlupakan Feat Noah", "image": "file:///android_asset/image/music.png", "link_mp3":"mp3/Yang_Terlupakan_Feat_Noah.mp3", "lyrics": " "}
   ]
-}
+  }
