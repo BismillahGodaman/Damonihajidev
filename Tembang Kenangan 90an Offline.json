@@ -13,8 +13,8 @@
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -27,81 +27,89 @@
       "link_redirect": "https://"
     }
   ],
-  "Categories": [
+ "Categories": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "image": "file:///android_asset/image/khalid.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Hanan Attaki",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Mr. Kim",
-      "image": "file:///android_asset/image/kim.jpeg"
-    },
-    {
-      "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "Adi Hidayat",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+      "name_category": "Tembang Kenangan 90an",
+      "image": "file:///android_asset/image/tembang90.jpg"
     }
   ],
   "Data": [
-    {
-      "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Paksakan Ibadah",
-      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
-    {
-      "id": 2,
-      "name_category": "Khalid Basalamah",
-      "title": "Dosa Membawa Keburukan",
-      "image": "file:///android_asset/image/khalid.jpg",
-      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
-      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
-    {
-      "id": 3,
-      "name_category": "Hanan Attaki",
-      "title": "Lapang Dada",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    },
-    {
-      "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "title": "Cambuk Untuk Kita Semua",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
-    {
-      "id": 5,
-      "name_category": "Adi Hidayat",
-      "title": "Selalu Tenang karena ada Allah",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
-    {
-      "id": 6,
-      "name_category": "Mr. Kim",
-      "title": "Source Code Mp3 Player",
-      "image": "file:///android_asset/image/kim.jpeg",
-      "link_mp3": "mp3/kim.ogg",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
+    { "id":1,  "name_category": "Tembang Kenangan 90an", "title": "Aku Bukan Pilihan", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Aku_Bukan_Pilihan.mp3", "lyrics": " "},
+    { "id":2,  "name_category": "Tembang Kenangan 90an", "title": "Aku ingin Pulang", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Aku_ingin_Pulang.mp3", "lyrics": " "},
+    { "id":3,  "name_category": "Tembang Kenangan 90an", "title": "Anak Sekolah", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Anak_Sekolah.mp3", "lyrics": " "},
+    { "id":4,  "name_category": "Tembang Kenangan 90an", "title": "Andai Aku Bisa", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Andai_Aku_Bisa.mp3", "lyrics": " "},
+    { "id":5,  "name_category": "Tembang Kenangan 90an", "title": "Apakah ada bedanya", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Apakah_ada_bedanya.mp3", "lyrics": " "},
+    { "id":6,  "name_category": "Tembang Kenangan 90an", "title": "Bangunlah Putra Putri Pertiwi", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Bangunlah_Putra_Putri_Pertiwi.mp3", "lyrics": " "},
+    { "id":7,  "name_category": "Tembang Kenangan 90an", "title": "Belenggu Cinta", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Belenggu_Cinta.mp3", "lyrics": " "},
+    { "id":8,  "name_category": "Tembang Kenangan 90an", "title": "Beri Aku Kepastian", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Beri_Aku_Kepastian.mp3", "lyrics": " "},
+    { "id":9,  "name_category": "Tembang Kenangan 90an", "title": "Berita Kepada Kawan", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Berita_Kepada_Kawan.mp3", "lyrics": " "},
+    { "id":10,  "name_category": "Tembang Kenangan 90an", "title": "Biarkan Cintamu Berlalu", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Biarkan_Cintamu_Berlalu.mp3", "lyrics": " "},
+    { "id":11,  "name_category": "Tembang Kenangan 90an", "title": "Biarlah Aku Mengalah", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Biarlah_Aku_Mengalah.mp3", "lyrics": " "},
+    { "id":12,  "name_category": "Tembang Kenangan 90an", "title": "Bila Cinta Mulai Bersemi", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Bila_Cinta_Mulai_Bersemi.mp3", "lyrics": " "},
+    { "id":13,  "name_category": "Tembang Kenangan 90an", "title": "Bintang Kehidupan", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Bintang_Kehidupan.mp3", "lyrics": " "},
+    { "id":14,  "name_category": "Tembang Kenangan 90an", "title": "Camelia", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Camelia.mp3", "lyrics": " "},
+    { "id":15,  "name_category": "Tembang Kenangan 90an", "title": "Cinta Diantara Kita", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Cinta_Diantara_Kita.mp3", "lyrics": " "},
+    { "id":16,  "name_category": "Tembang Kenangan 90an", "title": "Cintaku", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Cintaku.mp3", "lyrics": " "},
+    { "id":17,  "name_category": "Tembang Kenangan 90an", "title": "Cintaku Suci", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Cintaku_Suci.mp3", "lyrics": " "},
+    { "id":18,  "name_category": "Tembang Kenangan 90an", "title": "Cintaku Padamu", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Cintaku_Padamu.mp3", "lyrics": " "},
+    { "id":19,  "name_category": "Tembang Kenangan 90an", "title": "Cintamu Tlah Berlalu", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Cintamu_Tlah_Berlalu.mp3", "lyrics": " "},
+    { "id":20,  "name_category": "Tembang Kenangan 90an", "title": "Dalam Biru Hatiku", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Dalam_Biru_Hatiku.mp3", "lyrics": " "},
+    { "id":21,  "name_category": "Tembang Kenangan 90an", "title": "Demi Kau Dan Si Buah Hati", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Demi_Kau_Dan_Si_Buah_Hati.mp3", "lyrics": " "},
+    { "id":22,  "name_category": "Tembang Kenangan 90an", "title": "Deru Debu  Deru Debu", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Deru_Debu__Deru Debu.mp3", "lyrics": " "},
+    { "id":23,  "name_category": "Tembang Kenangan 90an", "title": "Disaat Kau Harus Memilih ", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Disaat_Kau_Harus_Memilih .mp3", "lyrics": " "},
+    { "id":24,  "name_category": "Tembang Kenangan 90an", "title": "Dosa Siapa Ini Dosa Siapa", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Dosa_Siapa_Ini_Dosa_Siapa.mp3", "lyrics": " "},
+    { "id":25,  "name_category": "Tembang Kenangan 90an", "title": "Duka Pasti Berlalu", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Duka_Pasti_Berlalu.mp3", "lyrics": " "},
+    { "id":26,  "name_category": "Tembang Kenangan 90an", "title": "Galih Dan Ratna", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Galih_Dan_Ratna.mp3", "lyrics": " "},
+    { "id":27,  "name_category": "Tembang Kenangan 90an", "title": "Hati Kecil", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Hati_Kecil.mp3", "lyrics": " "},
+    { "id":28,  "name_category": "Tembang Kenangan 90an", "title": "Ijinkan Aku Menyayangimu", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Ijinkan_Aku_Menyayangimu.mp3", "lyrics": " "},
+    { "id":29,  "name_category": "Tembang Kenangan 90an", "title": "Izinkanlah", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Izinkanlah.mp3", "lyrics": " "},
+    { "id":30,  "name_category": "Tembang Kenangan 90an", "title": "Jangan Pernah Ragukan", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Jangan_Pernah_Ragukan.mp3", "lyrics": " "},
+    { "id":31,  "name_category": "Tembang Kenangan 90an", "title": "Jangan Salahkan Siapa", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Jangan_Salahkan_Siapa.mp3", "lyrics": " "},
+    { "id":32,  "name_category": "Tembang Kenangan 90an", "title": "Kala Cinta Menggoda", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Kala_Cinta_Menggoda.mp3", "lyrics": " "},
+    { "id":33,  "name_category": "Tembang Kenangan 90an", "title": "Kau Begitu Berarti", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Kau_Begitu_Berarti.mp3", "lyrics": " "},
+    { "id":34,  "name_category": "Tembang Kenangan 90an", "title": "Kau Bukan Milikku Lagi", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Kau_Bukan_Milikku_Lagi.mp3", "lyrics": " "},
+    { "id":35,  "name_category": "Tembang Kenangan 90an", "title": "Kemelut Cinta", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Kemelut_Cinta.mp3", "lyrics": " "},
+    { "id":36,  "name_category": "Tembang Kenangan 90an", "title": "Kemesraan", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Kemesraan.mp3", "lyrics": " "},
+    { "id":37,  "name_category": "Tembang Kenangan 90an", "title": "Kereta Tiba Pukul Berapa", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Kereta_Tiba_Pukul_Berapa.mp3", "lyrics": " "},
+    { "id":38,  "name_category": "Tembang Kenangan 90an", "title": "Khayal", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Khayal.mp3", "lyrics": " "},
+    { "id":39,  "name_category": "Tembang Kenangan 90an", "title": "Kucari Jalan Terbaik", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Kucari_Jalan_Terbaik.mp3", "lyrics": " "},
+    { "id":40,  "name_category": "Tembang Kenangan 90an", "title": "Kupu-Kupu Kertas", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Kupu-Kupu_Kertas.mp3", "lyrics": " "},
+    { "id":41,  "name_category": "Tembang Kenangan 90an", "title": "Luka", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Luka.mp3", "lyrics": " "},
+    { "id":42,  "name_category": "Tembang Kenangan 90an", "title": "Mama Aku Ingin Pulang", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Mama_Aku_Ingin_Pulang.mp3", "lyrics": " "},
+    { "id":43,  "name_category": "Tembang Kenangan 90an", "title": "Manusia Setengah Dewa", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Manusia_Setengah_Dewa.mp3", "lyrics": " "},
+    { "id":44,  "name_category": "Tembang Kenangan 90an", "title": "Masih Ada Waktu", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Masih_Ada_Waktu.mp3", "lyrics": " "},
+    { "id":45,  "name_category": "Tembang Kenangan 90an", "title": "Matahariku", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Matahariku.mp3", "lyrics": " "},
+    { "id":46,  "name_category": "Tembang Kenangan 90an", "title": "Menanti Kejujuran", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Menanti_Kejujuran.mp3", "lyrics": " "},
+    { "id":47,  "name_category": "Tembang Kenangan 90an", "title": "Mengapa Harus Berpisah", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Mengapa_Harus_Berpisah.mp3", "lyrics": " "},
+    { "id":48,  "name_category": "Tembang Kenangan 90an", "title": "Menjaring Matahari", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Menjaring_Matahari.mp3", "lyrics": " "},
+    { "id":49,  "name_category": "Tembang Kenangan 90an", "title": "Mulanya Biasa Saja", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Mulanya_Biasa_Saja.mp3", "lyrics": " "},
+    { "id":50,  "name_category": "Tembang Kenangan 90an", "title": "Mempunyai Teman", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Mempunyai_Teman.mp3", "lyrics": " "},
+    { "id":51,  "name_category": "Tembang Kenangan 90an", "title": "Menyibak Tirai Kelabu", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Menyibak_Tirai_Kelabu.mp3", "lyrics": " "},
+    { "id":52,  "name_category": "Tembang Kenangan 90an", "title": "Meraih Rembulan", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Meraih_Rembulan.mp3", "lyrics": " "},
+    { "id":53,  "name_category": "Tembang Kenangan 90an", "title": "Nyalakan Api", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Nyalakan_Api.mp3", "lyrics": " "},
+    { "id":54,  "name_category": "Tembang Kenangan 90an", "title": "Panggung Sandiwara", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Panggung_Sandiwara.mp3", "lyrics": " "},
+    { "id":55,  "name_category": "Tembang Kenangan 90an", "title": "Pergilah Kasih", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Pergilah_Kasih.mp3", "lyrics": " "},
+    { "id":56,  "name_category": "Tembang Kenangan 90an", "title": "Pudar", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Pudar.mp3", "lyrics": " "},
+    { "id":57,  "name_category": "Tembang Kenangan 90an", "title": "Rindu Kasih", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Rindu_Kasih.mp3", "lyrics": " "},
+    { "id":58,  "name_category": "Tembang Kenangan 90an", "title": "Sandiwara Cinta", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Sandiwara_Cinta.mp3", "lyrics": " "},
+    { "id":59,  "name_category": "Tembang Kenangan 90an", "title": "Sanggupkah Aku", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Sanggupkah_Aku.mp3", "lyrics": " "},
+    { "id":60,  "name_category": "Tembang Kenangan 90an", "title": "Sarjana Muda", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Sarjana_Muda.mp3", "lyrics": " "},
+    { "id":61,  "name_category": "Tembang Kenangan 90an", "title": "Satukanlah Hati Kami", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Satukanlah_Hati_Kami.mp3", "lyrics": " "},
+    { "id":62,  "name_category": "Tembang Kenangan 90an", "title": "Seberkas Sinar", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Seberkas_Sinar.mp3", "lyrics": " "},
+    { "id":63,  "name_category": "Tembang Kenangan 90an", "title": "Selamat Jalan Kekasih", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Selamat_Jalan_Kekasih.mp3", "lyrics": " "},
+    { "id":64,  "name_category": "Tembang Kenangan 90an", "title": "Selamat Tinggal Sayang", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Selamat_Tinggal_Sayang.mp3", "lyrics": " "},
+    { "id":65,  "name_category": "Tembang Kenangan 90an", "title": "Sore Tugu Pancoran", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Sore_Tugu_Pancoran.mp3", "lyrics": " "},
+    { "id":66,  "name_category": "Tembang Kenangan 90an", "title": "Suara Hatiku", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Suara_Hatiku.mp3", "lyrics": " "},
+    { "id":67,  "name_category": "Tembang Kenangan 90an", "title": "Tegar", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Tegar.mp3", "lyrics": " "},
+    { "id":68,  "name_category": "Tembang Kenangan 90an", "title": "Tinggalah Ku Sendiri", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Tinggalah_Ku_Sendiri.mp3", "lyrics": " "},
+    { "id":69,  "name_category": "Tembang Kenangan 90an", "title": "Titip Rindu Buat Ayah", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Titip_Rindu_Buat_Ayah.mp3", "lyrics": " "},
+    { "id":70,  "name_category": "Tembang Kenangan 90an", "title": "Ujung Aspal Pondok Gede", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Ujung_Aspal_Pondok_Gede.mp3", "lyrics": " "},
+    { "id":71,  "name_category": "Tembang Kenangan 90an", "title": "Untuk Apa Lagi", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Untuk_Apa_Lagi.mp3", "lyrics": " "},
+    { "id":72,  "name_category": "Tembang Kenangan 90an", "title": "Untuk Kita Renungkan", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Untuk_Kita_Renungkan.mp3", "lyrics": " "},
+    { "id":73,  "name_category": "Tembang Kenangan 90an", "title": "Untukku", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Untukku.mp3", "lyrics": " "},
+    { "id":74,  "name_category": "Tembang Kenangan 90an", "title": "Walau Hati Menangis", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Walau_Hati_Menangis.mp3", "lyrics": " "},
+    { "id":75,  "name_category": "Tembang Kenangan 90an", "title": "Yang Pertama Kali", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Yang_Pertama_Kali.mp3", "lyrics": " "},
+    { "id":76,  "name_category": "Tembang Kenangan 90an", "title": "Yang Terlupakan Feat Noah", "image": "file:///android_asset/image/tembang90.png", "link_mp3":"mp3/Yang_Terlupakan_Feat_Noah.mp3", "lyrics": " "}
   ]
-}
+  }
